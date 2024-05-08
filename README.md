@@ -33,7 +33,7 @@ View total price and selected seats
 
 ## Demo
 
-https://pawan1021.github.io/seat-booking-UI/
+https://seat-booking-ui-pawans-projects-635cd459.vercel.app/
 
 ## Color Reference
 
